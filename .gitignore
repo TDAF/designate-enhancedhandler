@@ -21,4 +21,4 @@ doc/build/*
 dist
 designate_enhancedhandler/versioninfo
 .DS_Store
-
+.settings

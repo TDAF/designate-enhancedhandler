@@ -1,4 +1,0 @@
-eclipse.preferences.version=1
-encoding//designate_enhancedhandler/notification_handler/base.py=utf-8
-encoding//designate_enhancedhandler/notification_handler/neutron.py=utf-8
-encoding//designate_enhancedhandler/tests/test_notification_handler/test_neutron.py=utf-8
